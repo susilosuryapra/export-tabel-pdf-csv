@@ -1,7 +1,7 @@
 Requirements:
-pip install tk
-pip install ghostscript
-pip install camelot-py
+- pip install tk
+- pip install ghostscript
+- pip install camelot-py
 
 Jika mengalami error untuk Ghostscript, uninstall Ghostscript dan jalankan langkah-langkah berikut
 - Pertama-tama install ghostscript dari https://www.ghostscript.com/releases/gsdnld.html
